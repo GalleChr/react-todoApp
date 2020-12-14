@@ -1,6 +1,9 @@
 # React ToDo App
 
-Create task
-Edit task
-Complete task
-Delete task
+-Create task
+
+-Edit task
+
+-Complete task
+
+-Delete task
